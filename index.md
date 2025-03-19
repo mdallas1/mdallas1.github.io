@@ -1,25 +1,15 @@
 ---
 layout: default
-title: Matt Dallas personal site
+title: Matt Dallas 
 ---
 
-Postdoctoral Teaching Fellow in Mathematics at 
-the University of Dallas in Irving, TX [(faculty page)](https://udallas.edu/academics/programs/mathematics/faculty/dallas-matt.php).
+# About me
 
-## Contact 
-
-University of Dallas\\
-Department of Mathematics\\
-HSC 51
-
-Email: mdallas@udallas.edu
-
-## Links and pages
-
-### [Github](https://github.com/mdallas1)
-
-### [CV](./cv/mattdallas-cv-2025.pdf)
-
-### [Teaching](./teaching)
+I am an early-career mathematician working in numerical analysis and 
+specializing in nonlinear solvers and their applications. I earned 
+my PhD from the University of Florida in May 2024 under the suprvision of 
+[Dr. Sara Pollock](https://people.clas.ufl.edu/spollock/). The topic of my 
+dissertation was the analysis of [Anderson acceleration](https://en.wikipedia.org/wiki/Anderson_acceleration) applied to singular problems and its applications to 
+parameter-dependent nonlinear PDEs. Since Fall 2024, I have been a postdoctoral teaching fellow in mathematics at the [University of Dallas](https://udallas.edu/) in Irving, Texas. 
 
 
