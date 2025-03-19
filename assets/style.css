@@ -4,9 +4,9 @@ gap: 10px;
 justify-content: center;
 }
 
-.figure-left { 
-float: left !important;
-margin-right: 15px;
-display: block;
+.responsive-img {
+max-width: 50%
+height: auto;
 }
+
 
