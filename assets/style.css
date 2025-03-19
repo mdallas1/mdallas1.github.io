@@ -1,0 +1,12 @@
+.image-container {
+display: flex; 
+gap: 10px;
+justify-content: center;
+}
+
+.figure-left { 
+float: left !important;
+margin-right: 15px;
+display: block;
+}
+
