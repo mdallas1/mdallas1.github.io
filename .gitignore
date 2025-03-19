@@ -1,6 +1,5 @@
 _site/
 .jekyll-cache/
-photos/
 .DS_Store
 Gemfile.lock
 *.aux
