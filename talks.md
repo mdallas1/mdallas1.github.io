@@ -7,11 +7,12 @@ title: "Talks"
 
 ### Upcoming 
 
-Seminar talk at the Universtiy of North Texas, Denton, TX, 2025
-
 RTG NASC Ranch Retreat, Rice University, 2025
 
 ### Recent (2024-)
+
+Applied and Computational Mathematics Seminar at the Universtiy of 
+North Texas, Denton, TX, April 2025 [slides](unt_talk_sp25.pdf)
 
 SIAM Central States Section Meeting, Kansas City, MO, 2024
 
